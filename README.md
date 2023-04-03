@@ -13,3 +13,7 @@ In this project, you’ll be using flexbox to design and build the layout for a 
 - media queries should probably be thought out before the project begins, I didn't do this and it took my a long time to do the media stuff after I got the site looking great, but then as the browser was resized it looked aweful. 
 - Start with mobile first, build mobile then go out, that would have saved me time. 
 - Try to do as much as I can in css, keeping the html clean. 
+
+# Wireframe
+![Marcias sky captures-wireframe](https://user-images.githubusercontent.com/30397168/229565121-01c6a30e-d151-4e7e-9aa6-a96dac2c7bdb.png)
+
